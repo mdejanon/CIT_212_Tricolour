@@ -51,5 +51,8 @@
         width: 100%;
         height: 200px;
     }
+    .wrapper {
+        height: 600px;
+    }    
     
 }
